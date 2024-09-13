@@ -1,5 +1,11 @@
 # livekit-agents
 
+## 0.8.13
+
+### Patch Changes
+
+- Allow setting LLM temperature with VoiceAssistant - [#741](https://github.com/livekit/agents/pull/741) ([@davidzhao](https://github.com/davidzhao))
+
 ## 0.8.12
 
 ### Patch Changes
